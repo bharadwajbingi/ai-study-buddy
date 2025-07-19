@@ -1,11 +1,8 @@
+
 ![alt text](image.png)
-<<<<<<< HEAD
 
-# 🎓 AI-Workshop
 
-A full-stack AI study assistant built with React (frontend) and Flask (backend), integrating GPT-4, speech-to-text, file upload, and email functionality.
-
----
+***AI STUDY BUDDY***
 
 ## 🔹 Section 1: Frontend
 
@@ -765,4 +762,3 @@ SMTP_PASSWORD=your_email_app_password
 
 # ai-study-buddy
 
-> > > > > > > 38a046c32d500ff5606257716aab5fd3c3a33026
